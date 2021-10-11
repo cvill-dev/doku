@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/cvill-dev/doku/edit/gh-pag
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[new page html](https://github.com/cvill-dev/doku/gh-pages/index.html)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
